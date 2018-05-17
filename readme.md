@@ -1,4 +1,4 @@
-# shy_azusa [![Build Status](https://travis-ci.org/sindresorhus/shy_azusa.svg?branch=master)](https://travis-ci.org/sindresorhus/shy_azusa)
+# shy_azusa
 
 > The shy_azusa CLI
 
@@ -9,7 +9,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx shy_azusa
 ```
 
 ## Built with
