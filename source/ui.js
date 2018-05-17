@@ -27,7 +27,7 @@ const items = [
     url: 'https://github.com/shyazusa'
   },
   {
-    label: 'GitHubGist',
+    label: 'GitHub Gist',
     url: 'https://gist.github.com/shyazusa'
   },
   {
