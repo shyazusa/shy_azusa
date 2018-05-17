@@ -34,6 +34,38 @@ const items = [
     label: 'Qiita',
     url: 'https://qiita.com/shy_azusa'
   },
+  {
+    label: 'imgur',
+    url: 'https://imgur.com/user/shyazusa'
+  },
+  {
+    label: 'DeviantArt',
+    url: 'https://shyazusa.deviantart.com/'
+  },
+  {
+    label: 'pixiv',
+    url: 'https://www.pixiv.net/member.php?id=102431'
+  },
+  {
+    label: 'Blog',
+    url: 'http://d.hatena.ne.jp/shy_azusa/'
+  },
+  {
+    label: 'Facebook',
+    url: 'https://www.facebook.com/shy.azusa'
+  },
+  {
+    label: 'Instagram',
+    url: 'https://www.instagram.com/shy.azusa/'
+  },
+  {
+    label: 'FOURSQUARE',
+    url: 'https://ja.foursquare.com/shy_azusa'
+  },
+  {
+    label: 'Amazon Wish List',
+    url: 'http://amzn.asia/0CYztAn'
+  },
   // TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
   {
     label: 'Quit',
