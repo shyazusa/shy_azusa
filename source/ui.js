@@ -19,40 +19,20 @@ const handleSelect = item => {
 
 const items = [
   {
-    label: 'Website',
-    url: 'https://sindresorhus.com'
-  },
-  {
     label: 'Twitter',
-    url: 'https://twitter.com/sindresorhus'
+    url: 'https://twitter.com/shy_azusa'
   },
   {
     label: 'GitHub',
-    url: 'https://github.com/sindresorhus'
+    url: 'https://github.com/shyazusa'
   },
   {
-    label: 'Blog',
-    url: 'https://blog.sindresorhus.com'
+    label: 'GitHubGist',
+    url: 'https://gist.github.com/shyazusa'
   },
   {
-    label: 'Ask Me Anything',
-    url: 'https://github.com/sindresorhus/ama'
-  },
-  {
-    label: 'Contact',
-    url: 'https://sindresorhus.com/contact'
-  },
-  {
-    label: 'Support my open source work',
-    url: 'https://www.patreon.com/sindresorhus'
-  },
-  {
-    label: 'Unicorns!',
-    async action() {
-      console.log(await terminalImage.file(path.join(__dirname, 'unicorn1.gif')));
-      console.log(await terminalImage.file(path.join(__dirname, 'unicorn2.gif')));
-      console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
-    }
+    label: 'Qiita',
+    url: 'https://qiita.com/shy_azusa'
   },
   // TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
   {
@@ -67,7 +47,7 @@ module.exports = () => (
   <div>
     <br/>
     <div>
-      <Text>I’m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.</Text>
+      <Text>Ruby/JavaScript/CoffeeScript/PHP/iPhone 8/PS4/iMac/MBP/macOS/iOS/MtG/Carbonara/uncensored</Text>
     </div>
     <br/>
     <SelectInput items={items} onSelect={handleSelect}/>

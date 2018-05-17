@@ -15,10 +15,10 @@ meow(`
 `);
 
 const fallback = async () => {
-  const image = await terminalImage.file(path.join(__dirname, 'avatar-fallback.png'));
+  const image = await terminalImage.file(path.join(__dirname, 'avatar-fallback.jpeg'));
   console.log(image);
 };
 
-termImg(path.join(__dirname, 'avatar.png'), {fallback});
+termImg(path.join(__dirname, 'avatar.jpeg'), {fallback});
 
 render(h(ui));
