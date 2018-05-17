@@ -63,6 +63,18 @@ const items = [
     url: 'https://www.pixiv.net/member.php?id=102431'
   },
   {
+    label: 'ニジエ',
+    url: 'https://nijie.info/members.php?id=123089'
+  },
+  {
+    label: 'iwara',
+    url: 'http://ecchi.iwara.tv/user'
+  },
+  {
+    label: 'Pornhub',
+    url: 'https://jp.pornhub.com/users/shyazusa'
+  },
+  {
     label: 'Amazon Wish List',
     url: 'http://amzn.asia/0CYztAn'
   },
