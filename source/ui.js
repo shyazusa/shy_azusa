@@ -35,18 +35,6 @@ const items = [
     url: 'https://qiita.com/shy_azusa'
   },
   {
-    label: 'imgur',
-    url: 'https://imgur.com/user/shyazusa'
-  },
-  {
-    label: 'DeviantArt',
-    url: 'https://shyazusa.deviantart.com/'
-  },
-  {
-    label: 'pixiv',
-    url: 'https://www.pixiv.net/member.php?id=102431'
-  },
-  {
     label: 'Blog',
     url: 'http://d.hatena.ne.jp/shy_azusa/'
   },
@@ -61,6 +49,18 @@ const items = [
   {
     label: 'FOURSQUARE',
     url: 'https://ja.foursquare.com/shy_azusa'
+  },
+  {
+    label: 'imgur',
+    url: 'https://imgur.com/user/shyazusa'
+  },
+  {
+    label: 'DeviantArt',
+    url: 'https://shyazusa.deviantart.com/'
+  },
+  {
+    label: 'pixiv',
+    url: 'https://www.pixiv.net/member.php?id=102431'
   },
   {
     label: 'Amazon Wish List',
