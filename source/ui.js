@@ -56,7 +56,7 @@ const items = [
   },
   {
     label: 'imgur',
-    url: 'https://imgur.com/user/shyazusa'
+    url: 'https://shyazusa.imgur.com/'
   },
   {
     label: 'DeviantArt',
