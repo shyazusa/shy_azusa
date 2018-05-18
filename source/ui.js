@@ -19,6 +19,10 @@ const handleSelect = item => {
 
 const items = [
   {
+    label: 'Curriculum Vitae',
+    url: 'https://github.com/shyazusa/Curriculum-Vitae/blob/master/README.md'
+  },
+  {
     label: 'Twitter',
     url: 'https://twitter.com/shy_azusa'
   },
